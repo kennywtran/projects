@@ -27,14 +27,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='images/TipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/LhcuoC1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 There are two challenges that I encountered while building the app. Firstly, Swift is a new language to me and I had to learn the new language's syntax. Secondly, Xcode is also a new IDE for me and it took
-me a few hours to get familiar with its usages. Overall, it was a really challenging and fun experience while building out the app. 
+me a few hours to get familiarized. Although it was challenging, I had a fun experience while building out the app. 
 
 ## License
 
